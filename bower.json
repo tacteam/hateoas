@@ -1,0 +1,19 @@
+{
+  "name": "tac-hateoas",
+  "version": "0.0.1",
+  "authors": [
+    "tacteam <tacteamunq@gmail.com>"
+  ],
+  "description": "angular hateoas rest generic components",
+  "main": "dist/hateoas.js",
+  "keywords": [
+    "angular",
+    "tacteam",
+    "rest",
+    "repository",
+    "service",
+    "hateoas"
+  ],
+  "license": "MIT",
+  "homepage": "tiendatac.minplan.gob.ar"
+}
